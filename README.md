@@ -13,10 +13,12 @@ Restaurant title: Chef of the Wild
 Changes: 
 8/10/2022
 1. Initial upload/creation of project
-2. Added html pages (Index, Menu, About, Contact, Directions) and css files
+2. Added html pages (Index, Menu, About, Contact, Directions, Recipe of the Day) and css files
 3. Added images folder.
 4. Planned out pages and menu
 5. Acquired images for menu icons.
+6. Added remaining html pages & css file, for real this time.
+7. 
 
 Asterisks indicate images for menu icons were found: 
 Menu: 
