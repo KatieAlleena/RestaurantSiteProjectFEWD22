@@ -18,20 +18,29 @@ Changes:
 4. Planned out pages and menu
 5. Acquired images for menu icons.
 6. Added remaining html pages & css file, for real this time.
-7. 
+8/15/2022
+1. Added additional images for decorating site
+2. Created font folder & added a font for the @font-family rule.
+3. Edited stylesheet to add this font from file.
+4. Edited all html pages with doc and linked stylesheet.
+5. Added more details to index including following a tutorial
+to add a clickable button on an image.
+6. Added a nav bar to each html file and followed a tutorial to style it.
+7. Looked up code for image galleries and started work on menu page.
+8. Adjusted font and flex box properties for menu & overlay.
 
-Asterisks indicate images for menu icons were found: 
+Asterisks indicate images for menu icons were found. // Indicates placement on website. 
 Menu: 
-Soups & Appetizers: *
-1. Creamy Seafood Soup *
-2. Cream of Mushroom Soup *
-3. Cream of Vegetable Soup *
-4. Creamy Heart Soup *
-5. Pumpkin Stew *
-6. Carrot Stew *
-7. Prime Meat Stew *
-8. Curry Pilaf *
-9. Toasty Hearty Truffle *
+Soups & Appetizers: * //
+1. Creamy Seafood Soup * // 
+2. Cream of Mushroom Soup * //
+3. Cream of Vegetable Soup * //
+4. Creamy Heart Soup * //
+5. Pumpkin Stew * //
+6. Carrot Stew * //
+7. Prime Meat Stew * //
+8. Curry Pilaf * //
+9. Toasty Hearty Truffle * //
 
 Snacks & Sides: *
 1. Mushroom Rice Balls *

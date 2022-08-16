@@ -1,0 +1,164 @@
+@font-face {
+    font-family: zelda;
+    src: url(/RestaurantSiteProjectFEWD22/font/The\ Wild\ Breath\ of\ Zelda.otf);
+}
+
+body {
+
+    background-image: url(/RestaurantSiteProjectFEWD22/images/background.jpg)
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #333; 
+
+}
+
+#navbar a {
+    float: left; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
+  }
+
+  #navbar a:hover {
+    background-color: #ddd; 
+    color: black; 
+  }
+
+.header {
+
+    padding: 20px;
+    text-align: center;
+    color: #333;
+    font-family: Optima, sans-serif;
+}
+
+.header h1 {
+    font-size: 100px;
+    font-family: zelda, Optima, sans-serif
+}
+
+.mainimage {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mainimage img {
+width: 100%;
+height: auto;
+}
+
+.mainimage .btn {
+    position: absolute;
+    top: 140%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(51, 51, 51, 0.789);
+    color: white;
+    font-size: 30px;
+    font-family: zelda, Optima, sans-serif;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.mainimage .btn:hover {
+    background-color: black;
+  }
+
+.mainimage .btn a {
+    float: left; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
+}
+
+.menusection {
+
+    padding: 20px;
+    text-align: center;
+    color: #333;
+    font-family: Optima, sans-serif;
+}
+
+.menusection h1 {
+    font-size: 60px;
+    font-family: zelda, Optima, sans-serif
+}
+
+/* This code has been looked up online. 
+https://www.sliderrevolution.com/resources/css-gallery/ */
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+  .media {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+    img {
+        max-width: 100%;
+        height: auto;
+      }
+  
+  
+  .layer {
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 90%;
+    background: #FFF;
+    color: #151E3F;
+    transition: all 0.9s ease;
+  }
+
+    p {
+      transition: all 0.9s ease;
+      transform: scale(0.1)
+    }
+  
+  
+  p {
+    font-family: zelda, Optima, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing:1px;
+  }
+  
+  .media:hover .layer {
+    opacity: 0.8;
+    width: 90%;
+    transition: all 0.5s ease;
+  }
+
+    p {
+      transform: scale(1);
+      transition: all 0.9s ease;
+    }
+  /* This code has been looked up online. 
+  https://www.sliderrevolution.com/resources/css-gallery/ */
+ 
+
+
