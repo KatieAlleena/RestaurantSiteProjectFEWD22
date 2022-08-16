@@ -41,6 +41,11 @@ body {
     font-family: zelda, Optima, sans-serif
 }
 
+.header p {
+  font-size: 14px;
+  font-family: Optima, sans-serif;
+}
+
 .mainimage {
 
     display: flex;
