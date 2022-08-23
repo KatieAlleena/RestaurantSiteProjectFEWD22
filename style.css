@@ -111,8 +111,9 @@ https://www.sliderrevolution.com/resources/css-gallery/ */
   }
 
   .media {
-    width: 300px;
+    width: 200px;
     height: 200px;
+    padding: 60px;
     overflow: hidden;
     position: relative;
     display: flex;
@@ -148,8 +149,8 @@ https://www.sliderrevolution.com/resources/css-gallery/ */
   p {
     font-family: zelda, Optima, sans-serif;
     text-align: center;
-    font-size: 15px;
-    letter-spacing:1px;
+    font-size: 18px;
+    letter-spacing:2px;
   }
   
   .media:hover .layer {
