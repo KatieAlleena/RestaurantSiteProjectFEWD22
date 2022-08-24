@@ -30,6 +30,8 @@ to add a clickable button on an image.
 8. Adjusted font and flex box properties for menu & overlay.
 8/22/2022
 1. Continued working on the menu html file.
+8/24/2022
+1. Continued adding text to hover descriptions of meals on the menu.html file.
 
 Asterisks indicate images for menu icons were found. // Indicates placement on website. 
 Menu: 
