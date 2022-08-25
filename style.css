@@ -137,6 +137,7 @@ https://www.sliderrevolution.com/resources/css-gallery/ */
     height: 90%;
     background: #FFF;
     color: #151E3F;
+    border-radius: 20px;
     transition: all 0.9s ease;
   }
 
