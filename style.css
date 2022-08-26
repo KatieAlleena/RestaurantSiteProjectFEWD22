@@ -99,6 +99,10 @@ height: auto;
     font-family: zelda, Optima, sans-serif
 }
 
+.menusection p {
+  font-family: Optima, sans-serif;
+}
+
 /* This code has been looked up online. 
 https://www.sliderrevolution.com/resources/css-gallery/ */
 
