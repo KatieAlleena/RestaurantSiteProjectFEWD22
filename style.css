@@ -44,22 +44,132 @@ body {
 .header p {
   font-size: 14px;
   font-family: Optima, sans-serif;
+  padding: 20px;
+}
+
+.header2 {
+  padding: 20px;
+  text-align: center;
+  color: #333;
+  font-family: Optima, sans-serif;
+}
+
+.header2 h1 {
+
+  font-size: 50px;
+  font-family: zelda, Optima, sans-serif;
+
+}
+
+.header2 h2 {
+  font-size: 12px;
+  font-family: Optima, sans-serif;
 }
 
 .mainimage {
 
     display: flex;
     flex-wrap: wrap;
+    padding: 10px;
 }
 
 .mainimage img {
 width: 100%;
 height: auto;
+margin: 2px;
 }
+
+.triforce {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px;
+  margin: 20px;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.form form {
+  font-family: zelda, Optima, sans-serif;
+}
+
+.cakeimage {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  margin: 2px;
+  justify-content: center;
+}
+
+.cakeimage img {
+  width: 33%;
+  height: auto;
+  margin: 2px;
+  padding: 10px;
+  
+  }
+
+  .cakerecipe {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    margin: 2px;
+    justify-content: center;
+  }
+
+
+  .cakeinst {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    margin: 2px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .cakeinst ol {
+    font-family: Optima, sans-serif;
+  }
+
+  .cakeinst h1 {
+    font-family: zelda, Optima, sans-serif;
+  }
+
+  .cakeinst li {
+    padding: 10px;
+  }
+
+  table, th, td {
+    font-family: zelda, Optima, sans-serif;
+    font-size: 20px;
+    background-color: white;
+    border: 5px double #333;
+    padding: 5px;
+    border-collapse: collapse;
+    margin: 10px;
+  }
+
+  .video {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    margin: 2px;
+    justify-content: center;
+
+  }
+
 
 .mainimage .btn {
     position: absolute;
-    top: 140%;
+    top: 160%;
     left: 52%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -171,5 +281,13 @@ https://www.sliderrevolution.com/resources/css-gallery/ */
   /* This code has been looked up online. 
   https://www.sliderrevolution.com/resources/css-gallery/ */
  
-
+footer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  background-color: #333;
+  color: #fff;
+  height: 40px;
+}
 

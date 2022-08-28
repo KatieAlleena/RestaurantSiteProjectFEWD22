@@ -34,6 +34,16 @@ to add a clickable button on an image.
 1. Continued adding text to hover descriptions of meals on the menu.html file.
 8/25/2022
 1. Finished Menu page and adjusted CSS text properties for ending paragraph to match Index.html file.
+8/27/2022
+1. Added images for remaining pages
+2. Worked on designing remaining pages.
+3. Finished adjusting CSS
+4. Added footers to each page.
+5. Adjusted navbar. 
+6. Finished website copy writing.
+7. Finished adjusting images & flex containers.
+8. Added table & ordered list per instructions
+9. Finished & uploaded project.
 
 Asterisks indicate images for menu icons were found. // Indicates placement on website. 
 Menu: 
