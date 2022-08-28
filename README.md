@@ -44,6 +44,7 @@ to add a clickable button on an image.
 7. Finished adjusting images & flex containers.
 8. Added table & ordered list per instructions
 9. Finished & uploaded project.
+10. Shared project & turned in to class assignments page on Teams.
 
 Asterisks indicate images for menu icons were found. // Indicates placement on website. 
 Menu: 
