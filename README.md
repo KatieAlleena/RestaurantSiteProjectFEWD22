@@ -146,3 +146,5 @@ Spicy Elixir * //
 Tough Elixir * //
 All Elixirs seasoned with locally foraged Acorns or Chickaloo Nuts. *
 
+Lee's Feedback:
+I like how you laid out your code. It is clean and easy to read. I also really enjoyed how you used the ReadMe file to organize and think out your project, as well as comments throughout your code. There is good use as well of all the elements I asked for, as well as some we had not talked about. Good Work! 
